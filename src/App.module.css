@@ -1,12 +1,16 @@
 .root {
-    margin: 0 auto;
-    max-width: 1300px;
-    width: 100%;
+  margin: 0 auto;
+  max-width: 1300px;
+  width: 100%;
 }
 
 .list {
-    display: grid;
-    gap: 15px;
-    grid-template-rows: auto;
-    grid-template-columns: repeat(auto-fill, 307px);
+  display: grid;
+  gap: 15px;
+  grid-template-rows: auto;
+  grid-template-columns: repeat(auto-fill, 307px);
+}
+
+body {
+  background-color: bisque;
 }

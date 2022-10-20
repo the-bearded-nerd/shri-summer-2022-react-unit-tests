@@ -1,0 +1,13 @@
+.price {
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.price_old {
+  text-decoration-line: line-through;
+}
+
+.price_new {
+  color: #f20d0d;
+}

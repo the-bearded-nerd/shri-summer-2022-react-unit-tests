@@ -1,0 +1,22 @@
+.bar_hit {
+  background-color: #f53d3d;
+}
+.bar_sale {
+  background-color: #11c66c;
+}
+
+.bar {
+  padding: 3px 5px;
+  border-radius: 4px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
